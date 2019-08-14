@@ -1,0 +1,6 @@
+2019-07-07 21:13:31,529 DEBUG [main] org.hibernate.SQL - select country0_.id as id1_0_0_, country0_.name as name2_0_0_ from music-instrument-assistant-schema.country country0_ where country0_.id=?
+2019-07-07 21:16:11,949 DEBUG [main] org.hibernate.SQL - select country0_.id as id1_0_0_, country0_.name as name2_0_0_ from music-instrument-assistant-schema.country country0_ where country0_.id=?
+2019-07-07 21:21:14,251 DEBUG [main] org.hibernate.SQL - select country0_.id as id1_0_0_, country0_.name as name2_0_0_ from music-instrument-assistant-schema.country country0_ where country0_.id=?
+2019-07-07 21:22:18,497 DEBUG [main] org.hibernate.SQL - select country0_.id as id1_0_0_, country0_.name as name2_0_0_ from music-instrument-assistant-schema.country country0_ where country0_.id=?
+2019-07-07 21:23:14,546 DEBUG [main] org.hibernate.SQL - select country0_.id as id1_0_0_, country0_.name as name2_0_0_ from "music-instrument-assistant-schema".country country0_ where country0_.id=?
+2019-07-07 21:24:06,086 DEBUG [main] org.hibernate.SQL - insert into "music-instrument-assistant-schema".country (name) values (?)
